@@ -1,2 +1,2 @@
 # DFT_Computation
-DFT function helps to compute N - point Discrete Fourier Transform of a Discrete Time Domain Signal in MATLAB
+DFT is a MATLAB function, helps to compute N - point Discrete Fourier Transform of a Discrete Time Domain Signal. Its licensed under GNU General Public License.
